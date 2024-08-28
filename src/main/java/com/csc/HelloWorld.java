@@ -1,3 +1,7 @@
 package com.csc;
+class HelloWorld{
 
-// Your code goes here!
+    public static void main (String [] args){
+        System.out.println("hello world");
+    }
+}
